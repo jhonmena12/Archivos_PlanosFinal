@@ -9,7 +9,7 @@ using System.Globalization;
 namespace AppTaller
 
 {
-
+                                        
     class Inicio
 
     {
